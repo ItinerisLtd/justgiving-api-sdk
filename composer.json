@@ -1,6 +1,6 @@
 {
-  "name": "konsulting/justgiving-api-sdk",
-  "description": "A modern PHP SDK to communicate with the JustGiving API.",
+  "name": "itinerisltd/justgiving-api-sdk",
+  "description": "A modern PHP SDK to communicate with the JustGiving API. Maintained fork of konsulting/justgiving-api-sdk.",
   "type": "library",
   "license": "MIT",
   "authors": [
